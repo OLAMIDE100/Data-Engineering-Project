@@ -1,6 +1,6 @@
 variable "storage_name" {
   description = "My datalake storage name"
-  default = "tweets_datalake"
+  default = "tweets_datalake_project"
   type = string
 }
 
@@ -12,7 +12,7 @@ variable "project" {
 
 variable "region" {
   description = "Region for my GCP resources"
-  default = "europe-west6"
+  default = "us-east1"
   type = string
 }
 
