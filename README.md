@@ -24,7 +24,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="Images/data-engineering-logo.webp" alt="Logo" width="800" height="150">
+    <img src="Images/data-engineering-logo.webp" alt="Logo" width="800" height="200">
   </a>
 
   <h3 align="center">DataTalks Data & Analytical Engineering ZoomCamp Project</h3>
