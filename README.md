@@ -37,7 +37,7 @@
     <br />
     <a href="https://github.com/OLAMIDE100/Data-Engineering-Project">View Dashboard</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/OLAMIDE100/Data-Engineering-Project/issues">Report Bug</a>
   </p>
 </div>
 
@@ -169,15 +169,21 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [x] Create a GCP project and Get the google service key and store in a file path
+- [ ] Install Terraform and create the main.tf and variable.tf file
+- [x] Provision the various Google Cloud Resources Using Terraform
+- [x] Create an Airflow folder with dags,logs and plugins folders inside it
+- [x] Install Docker and Docker Compose
+- [x] Add a custom Docker file with airflow image to take in airflow environment, python environment and google development kit/environment
+- [x] Build the airflow image
+- [x] Add the docker compose file with various airflow services and variables together with google variables
+- [x] Build the bash data ingestion script
+- [x] Build the dag python file with various operators for the execution off various tasks
+- [x] Run the docker compose up to build and start our containers for the execution of the project
+- [x] Connect the ingested dataset in the dataware to google data studio
+- [ ] Build dashboards to pass the necessary information effectively
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/OLAMIDE100/Data-Engineering-Project/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
