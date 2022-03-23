@@ -1,0 +1,6 @@
+pandas
+snscrape==0.4.0.20211208
+textblob==0.17.1
+apache-airflow-providers-google
+fastparquet==0.8.0
+pyarrow
