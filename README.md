@@ -78,7 +78,7 @@
 
 Today microblogging has become a very common platform for exchanging opinion among us. Many users exchange their thoughts on a various aspect of their activity. Consequently, microblogging websites are the substantial origin of information for sentiment analysis and opinion mining. Twitter is a famous microblogging website where 500 million tweets are posted every day. This Project summarizes the data set of Tweets related to the forth coming 2023 general election in Nigeria targeted at the two leading presidential aspirants in the country.
 
-The dataset will be scraped daily from twitter, transformed and the necessary sentimental analysis will carry out on the tweets before loading to the datalake, then the data warehouse for storage and staging area for providing the data studio clean data for presenting the insights and analysis using well defined charts and dashboards. All the process above will be carried out using the various knowledge and tools learnt during the DataTalks Zoom Camp.
+The dataset will be scraped daily from twitter, cleaned and transformed with the necessary sentimental analysis carried out on the tweets before loading to the datalake, then the data warehouse for storage and staging  for provisioning the data studio with clean data for presenting the insights and analysis using well defined charts and dashboards. All the processes above will be carried out using the various knowledge and tools(cloud engineering and devops) associated with data and analytical engineering.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
