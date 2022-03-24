@@ -127,7 +127,7 @@ Language, frameworks, libraries, Services and Tools used to bootstrap this proje
 
 _for real time dashboard of our data and with its analysis , please refer to the [Poliical Arena Dashboard](https://datastudio.google.com/reporting/003789ac-4a1e-4fa3-b8e7-4e08cc288c2f)_
 
-![dashboard diagram](https://github.com/OLAMIDE100/Data-Engineering-Project/blob/main/Images/Capture1.PNG)
+![dashboard diagram](https://github.com/OLAMIDE100/Data-Engineering-Project/blob/main/Images/Capture2.PNG)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
