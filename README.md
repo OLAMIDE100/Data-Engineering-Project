@@ -95,7 +95,7 @@ Use the `BLANK_README.md` to get started.
 
 
 * [Nigeria Political Tweets](): the dataset we will use during the course.
-* [Pandas](https://spark.apache.org/): analytics engine for large-scale data processing (distributed processing).
+* [Pandas](https://spark.apache.org/):  a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language.
 * [Google BigQuery](https://cloud.google.com/products/bigquery/): serverless _data warehouse_ (central repository of integrated data from one or more disparate sources).
 * [Airflow](https://airflow.apache.org/): workflow management platform for data engineering pipelines. In other words, a pipeline orchestration tool.
 * [Docker](https://www.docker.com/): a set of platform as a service (PaaS) products that use OS-level virtualization to deliver software in packages called containers.
