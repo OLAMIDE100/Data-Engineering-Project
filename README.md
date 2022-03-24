@@ -70,7 +70,7 @@
 <div align="center">
   <h1>2023 NIGERIA GENERAL ELECTION POLITICAL ARENA</h1>
   
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="">
     <img src="Images/Which-region-should-produce-Nigeria%E2%80%99s-next-president-in-2023.jpg" alt="Logo" width="800" height="200">
   </a>
  </div>
