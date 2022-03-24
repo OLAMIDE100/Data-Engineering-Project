@@ -35,7 +35,7 @@
     <a href="https://github.com/OLAMIDE100/Data-Engineering-Project"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/OLAMIDE100/Data-Engineering-Project">View Dashboard</a>
+    <a href="https://datastudio.google.com/reporting/003789ac-4a1e-4fa3-b8e7-4e08cc288c2f">View Dashboard</a>
     ·
     <a href="https://github.com/OLAMIDE100/Data-Engineering-Project/issues">Report Bug</a>
   </p>
@@ -127,7 +127,7 @@ Language, frameworks, libraries, Services and Tools used to bootstrap this proje
 
 _for real time dashboard of our data and with its analysis , please refer to the [Poliical Arena Dashboard](https://datastudio.google.com/reporting/003789ac-4a1e-4fa3-b8e7-4e08cc288c2f)_
 
-![dashboard diagram](https://github.com/OLAMIDE100/Data-Engineering-Project/blob/main/Images/Capture2.PNG)
+![dashboard diagram](https://github.com/OLAMIDE100/Data-Engineering-Project/blob/main/Images/Capture3.PNG)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -156,56 +156,24 @@ See the [open issues](https://github.com/OLAMIDE100/Data-Engineering-Project/iss
 
 
 
-<!-- LICENSE -->
-## License
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+I am extremely grateful for the time this set of wonderful people put in place to ensure we understood the various aspect of data and analytical engineering
+
+* [Alexey Grigorev](https://www.linkedin.com/in/agrigorev/)
+* [Ankush Khanna](https://www.linkedin.com/in/ankushkhanna2/)
+* [Sejal Vaidya](https://www.linkedin.com/in/vaidyasejal/)
+* [Victoria Perez Mola](https://www.linkedin.com/in/victoriaperezmola/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [Adesoba Adewale Olamide](https://www.linkedin.com/in/adesoba-olamide-gmnse-787193169/)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+Project Link: [2023 Political Arena](https://github.com/OLAMIDE100/Data-Engineering-Project)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
