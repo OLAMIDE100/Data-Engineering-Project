@@ -30,7 +30,7 @@
   <h3 align="center">DataTalks Data & Analytical Engineering ZoomCamp Project</h3>
 
   <p align="center">
-    A wrap up projects for the completion of the 7 weeks of the ZoomCamp!
+    A wrap up project for the completion of the 7 weeks of the ZoomCamp!
     <br />
     <a href="https://github.com/OLAMIDE100/Data-Engineering-Project"><strong>Explore the docs »</strong></a>
     <br />
