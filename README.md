@@ -51,18 +51,11 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#architecture">Architecture</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -96,8 +89,18 @@ Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+### Architecture
+
+![architecture diagram](https://github.com/OLAMIDE100/Data-Engineering-Project/blob/main/Images/AWS%20Networking.png)
 
 
+* [Nigeria Political Tweets](): the dataset we will use during the course.
+* [Pandas](https://spark.apache.org/): analytics engine for large-scale data processing (distributed processing).
+* [Google BigQuery](https://cloud.google.com/products/bigquery/): serverless _data warehouse_ (central repository of integrated data from one or more disparate sources).
+* [Airflow](https://airflow.apache.org/): workflow management platform for data engineering pipelines. In other words, a pipeline orchestration tool.
+* [Docker](https://www.docker.com/): a set of platform as a service (PaaS) products that use OS-level virtualization to deliver software in packages called containers.
+* [Google Cloud Storage](https://cloud.google.com/storage): a RESTful online file storage web service for storing and accessing data on Google Cloud Platform infrastructure.
+* [Google Data Studio](https://datastudio.google.com): Google Data Studio turns your data into fully customizable informative reports and dashboards that are easy to read and share
 ### Built With
 
 Language, frameworks, libraries, Services and Tools used to bootstrap this project.
@@ -119,48 +122,12 @@ Language, frameworks, libraries, Services and Tools used to bootstrap this proje
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+_for real time dashboard of our data and with its analysis , please refer to the [Poliical Arena Dashboard](https://datastudio.google.com/reporting/003789ac-4a1e-4fa3-b8e7-4e08cc288c2f)_
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+![dashboard diagram](https://github.com/OLAMIDE100/Data-Engineering-Project/blob/main/Images/Capture1.PNG)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -170,7 +137,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ## Roadmap
 
 - [x] Create a GCP project and Get the google service key and store in a file path
-- [ ] Install Terraform and create the main.tf and variable.tf file
+- [x] Install Terraform and create the main.tf and variable.tf file
 - [x] Provision the various Google Cloud Resources Using Terraform
 - [x] Create an Airflow folder with dags,logs and plugins folders inside it
 - [x] Install Docker and Docker Compose
@@ -181,27 +148,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [x] Build the dag python file with various operators for the execution off various tasks
 - [x] Run the docker compose up to build and start our containers for the execution of the project
 - [x] Connect the ingested dataset in the dataware to google data studio
-- [ ] Build dashboards to pass the necessary information effectively
+- [x] Build dashboards to pass the necessary information effectively
 
 See the [open issues](https://github.com/OLAMIDE100/Data-Engineering-Project/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
