@@ -119,7 +119,7 @@ Language, frameworks, libraries, Services and Tools used to bootstrap this proje
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-_for real time dashboard of our data and with its analysis , please refer to the [Poliical Arena Dashboard](https://datastudio.google.com/reporting/003789ac-4a1e-4fa3-b8e7-4e08cc288c2f)_
+_for real time dashboard of our data and with its analysis , please refer to the [Political Arena Dashboard](https://datastudio.google.com/reporting/003789ac-4a1e-4fa3-b8e7-4e08cc288c2f)_
 
 ![dashboard diagram](https://github.com/OLAMIDE100/Data-Engineering-Project/blob/main/Images/Capture3.PNG)
 
